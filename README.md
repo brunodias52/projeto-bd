@@ -1,6 +1,6 @@
 # <p align=center> Projeto de Banco de Dados da residência em TIC/Software Serratec 2021.2
 
-</h1>Turma Petrópolis 007 - Grupo 5<br /><br /></h1>
+Turma Petrópolis 007 - Grupo 5<br /><br />
 Membros: Bruno Prata Dias, Guilherme Dideco Antunes, Igor Vicente Haubrich,<br /> Lucas Coelho Paulino, Lucas Ferreira Seixas e Luis Felipe Saldanha.<br /><br />
 Data de entrega: 22/09/2021
 
